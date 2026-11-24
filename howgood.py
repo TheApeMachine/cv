@@ -7,9 +7,9 @@ payload = {
     "name": "Daniel Owen van Dommelen",
     "email": "daniel.van.dommelen@gmail.com",
     "resume": "https://github.com/TheApeMachine/cv/blob/2d0b97a81cb843db20b7851ab5fcd8eaacc7f2e3/Daniel%20Owen%20van%20Dommelen%20-%20resume%20-%202026.pdf",       # URL to your resume
-    "location": "Rome, Italy",     # e.g. "New York, NY"
+    "location": "Rome, Italy",
     "linkedin": "https://www.linkedin.com/in/theapemachine",
-    "codeLink": "https://github.com/TheApeMachine/howgood",     # URL to the repo/gist containing THIS script
+    "codeLink": "https://github.com/TheApeMachine/cv/blob/b51dbe200d352ff3e73b1f52297b315608557eed/howgood.py",
     "yearsPython": 10,
     "yearsDjango": 5,
 }
